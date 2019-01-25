@@ -579,3 +579,1069 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.25-20.05.56:211][162]SourceControl: [master 67e71b7] 12
 [2019.01.25-20.05.56:211][162]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2019.01.25-20.05.56:213][162]SourceControl: Commited [master 67e71b7] 12.
+[2019.01.25-20.07.54:408][280]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.25-20.07.59:688][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.08.07:137][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-20.08.19:070][141]LogMetaData: Removing '/Game/Alliance/NewWorld.SKEL_NewWorld_C' ref from Metadata '/Game/NewWorld.PackageMetaData'
+[2019.01.25-20.08.19:070][141]LogMetaData: Removing '/Game/Alliance/NewWorld.NewWorld_C' ref from Metadata '/Game/NewWorld.PackageMetaData'
+[2019.01.25-20.08.19:070][141]LogMetaData: Removing '/Game/Alliance/NewWorld.NewWorld:PersistentLevel.NewWorld.EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewWorld.PackageMetaData'
+[2019.01.25-20.08.19:070][141]LogMetaData: Removing '/Game/Alliance/NewWorld.NewWorld:PersistentLevel.NewWorld.EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewWorld.PackageMetaData'
+[2019.01.25-20.08.19:085][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alliance/NewWorld" FILE="../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.25-20.08.19:191][141]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/NewWorld8E99594043DE089DF4A8E997EFDB4B69.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/NewWorld.umap'
+[2019.01.25-20.08.19:293][141]LogFileHelpers: Saving map 'NewWorld' took 0.209
+[2019.01.25-20.08.31:999][571]LogMetaData: Removing '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Alliance/NewWorld.PackageMetaData'
+[2019.01.25-20.08.31:999][571]LogMetaData: Removing '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Alliance/NewWorld.PackageMetaData'
+[2019.01.25-20.08.31:999][571]LogMetaData: Removing '/Game/Alliance/Alliance_Map.Alliance_Map_C' ref from Metadata '/Game/Alliance/NewWorld.PackageMetaData'
+[2019.01.25-20.08.31:999][571]LogMetaData: Removing '/Game/Alliance/Alliance_Map.SKEL_Alliance_Map_C' ref from Metadata '/Game/Alliance/NewWorld.PackageMetaData'
+[2019.01.25-20.08.32:118][571]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Alliance_MapF72EF8824C925357C00F27A912D4949A.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Alliance_Map.umap'
+[2019.01.25-20.08.32:227][571]LogFileHelpers: Saving map 'Alliance_Map' took 0.218
+[2019.01.25-20.08.32:614][571]SourceControl: rm 'Content/Alliance/NewWorld.umap'
+[2019.01.25-20.08.57:338][478]LogAssetEditorManager: Opening Asset editor for World /Game/Alliance/Alliance_Map.Alliance_Map
+[2019.01.25-20.08.57:360][478]Cmd: MAP LOAD FILE="../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Alliance_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.25-20.08.57:361][478]LightingResults: New page: Lighting Build
+[2019.01.25-20.08.57:361][478]LoadErrors: New page: Loading map: Alliance_Map.umap
+[2019.01.25-20.08.57:362][478]MapCheck: New page: Map Check
+[2019.01.25-20.08.57:362][478]LightingResults: New page: Lighting Build
+[2019.01.25-20.08.57:387][478]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.25-20.08.57:387][478]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.08.57:432][478]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.25-20.08.57:433][478]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2019.01.25-20.08.57:434][478]LogFileHelpers: Loading map 'Alliance_Map' took 0.075
+[2019.01.25-20.09.04:547][185]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.25-20.09.04:613][185]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject
+[2019.01.25-20.09.04:613][185]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.25-20.09.04:613][185]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.01.25-20.09.04:613][185]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.25-20.09.04:617][185]LogTemp: BranchPath = DESKTOP-MA143CG/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-MA143CG/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.01.25-20.09.04:629][185]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\VS-PROGRAMMINGPC1\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.25-20.09.08:281][582]SourceControl: fatal: /Script: '/Script' is outside repository
+[2019.01.25-20.09.10:774][874]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.25-20.09.10:777][874]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.25-20.09.15:997][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.09.17:695][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.09.24:041][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.09.28:278][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.09.39:630][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.10.52:972][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.10.55:886][399]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.25-20.10.57:745][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.11.05:272][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.11.15:224][630]Cmd: TRANSACTION UNDO
+[2019.01.25-20.11.15:224][630]LogEditorTransaction: Undo Move Actors
+[2019.01.25-20.11.16:484][766]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.25-20.11.17:691][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.11.23:509][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.11.26:701][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.11.30:630][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.11.34:658][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.12.06:364][555]Cmd: DELETE
+[2019.01.25-20.12.06:364][555]Cmd: ACTOR DELETE
+[2019.01.25-20.12.06:380][555]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2019.01.25-20.12.06:449][555]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2019.01.25-20.12.07:628][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.12.07:728][708]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.12.07:746][708]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.12.07:747][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.12.07:748][708]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:12:07 AM)
+[2019.01.25-20.12.07:762][708]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.12.07:766][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003957s)
+[2019.01.25-20.12.07:767][708]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.12.07:767][708]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2019.01.25-20.12.07:767][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.005523s)
+[2019.01.25-20.12.07:797][708]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.12.07:806][708]LogInit: FAudioDevice initialized.
+[2019.01.25-20.12.07:857][708]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.12.07:871][708]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.12.07
+[2019.01.25-20.12.07:873][708]LogWorld: Bringing up level for play took: 0.003955
+[2019.01.25-20.12.07:917][708]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.01.25-20.12.07:930][708]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 0.902
+[2019.01.25-20.12.07:930][708]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.12.09:305][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.12.09:305][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.12.09:336][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.12.09:337][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.12.09:359][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.12.09:404][871]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.01.25-20.12.23:604][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.12.32:176][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.12.39:350][361]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.01.25-20.12.46:527][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.12.49:576][433]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.25-20.12.53:162][849]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Alliance/Bp/Orbe.Orbe
+[2019.01.25-20.12.53:614][849]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.01.25-20.12.54:572][849]LogRenderer: Reallocating scene render targets to support 1052x668 Format 10 NumSamples 1 (Frame:1).
+[2019.01.25-20.12.57:450][113]LogSlate: Window 'Orbe*' being destroyed
+[2019.01.25-20.13.04:635][928]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.01.25-20.13.04:943][928]LogSlate: Took 0.005025 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.25-20.13.05:090][929]LogSlate: Took 0.004678 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.25-20.13.41:514][693]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.14.26:255][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.14.39:666][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.14.39:762][795]BlueprintLog: New page: Compile Orbe
+[2019.01.25-20.14.46:241][378]BlueprintLog: New page: Compile Orbe
+[2019.01.25-20.15.48:697][903]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.17.47:700][677]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.19.08:840][112]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(296)].
+[2019.01.25-20.19.09:096][112]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Alliance_Map_Auto1082F2BE54D453AA6D7FBE3919F1D4675.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Autosaves/Game/Alliance/Alliance_Map_Auto1.umap'
+[2019.01.25-20.19.09:103][112]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Alliance/Alliance_Map' took 0.212
+[2019.01.25-20.19.09:103][112]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.212
+[2019.01.25-20.19.09:105][112]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.01.25-20.19.09:121][112]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.01.25-20.19.09:121][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.01.25-20.19.09:169][112]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/ThirdPersonCharacter_Auto14FA2D5934E63B8EB7D9F8487A7805A4B.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2019.01.25-20.19.09:170][112]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Alliance/Bp/Orbe] ([1] browsable assets)...
+[2019.01.25-20.19.09:189][112]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Alliance/Bp/Orbe.Orbe]
+[2019.01.25-20.19.09:189][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/Alliance/Bp/Orbe]
+[2019.01.25-20.19.09:207][112]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Orbe_Auto1AA1454194202FFA891D7ACA63095C056.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Autosaves/Game/Alliance/Bp/Orbe_Auto1.uasset'
+[2019.01.25-20.19.09:208][112]LogFileHelpers: Auto-saving content packages took 0.104
+[2019.01.25-20.20.09:130][137]LogSlate: Took 0.005107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.01.25-20.20.11:706][426]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.22.53:526][656]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.23.07:446][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.23.07:836][189]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Alliance_MapC2CBE2334FA7CB088AE5208E107BC87B.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Alliance_Map.umap'
+[2019.01.25-20.23.09:867][390]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.23.09:888][390]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.23.09:888][390]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.25-20.23.09:895][390]LogPlayLevel: [PlayLevel] Compiling Orbe before play...
+[2019.01.25-20.23.10:088][390]LogPlayLevel: PlayLevel: Blueprint regeneration took 200 ms (1 blueprints)
+[2019.01.25-20.23.10:088][390]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:23:10 AM)
+[2019.01.25-20.23.10:088][390]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.23.10:092][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003651s)
+[2019.01.25-20.23.10:093][390]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.23.10:093][390]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2019.01.25-20.23.10:093][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004577s)
+[2019.01.25-20.23.10:134][390]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.23.10:142][390]LogInit: FAudioDevice initialized.
+[2019.01.25-20.23.10:173][390]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.23.10:174][390]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.23.10
+[2019.01.25-20.23.10:176][390]LogWorld: Bringing up level for play took: 0.002271
+[2019.01.25-20.23.10:191][390]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 1.164
+[2019.01.25-20.23.10:192][390]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.23.13:952][838]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.23.14:956][950]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.23.15:958][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.23.16:959][187]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.23.17:959][307]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.23.18:959][427]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.23.19:959][547]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.23.20:959][667]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.23.21:958][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.23.23:275][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.23.23:276][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.23.23:310][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.23.23:310][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.23.23:342][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.23.23:378][944]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.25-20.23.25:136][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.24.31:717][272]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.24.33:758][472]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.24.33:779][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.24.33:779][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.24.33:779][472]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:24:33 AM)
+[2019.01.25-20.24.33:779][472]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.24.33:783][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003587s)
+[2019.01.25-20.24.33:783][472]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.24.33:784][472]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2019.01.25-20.24.33:784][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004381s)
+[2019.01.25-20.24.33:822][472]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.24.33:830][472]LogInit: FAudioDevice initialized.
+[2019.01.25-20.24.33:866][472]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.24.33:867][472]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.24.33
+[2019.01.25-20.24.33:868][472]LogWorld: Bringing up level for play took: 0.000863
+[2019.01.25-20.24.33:882][472]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 0.855
+[2019.01.25-20.24.33:882][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.24.37:142][845]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.24.38:152][962]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.24.39:149][ 77]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.24.40:148][193]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.24.41:146][307]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.24.41:642][365]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.24.41:642][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.24.41:680][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.24.41:680][365]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.24.41:714][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.24.41:750][367]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.25-20.24.42:366][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.24.48:906][182]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.25.00:934][505]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.25.02:265][624]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.25.02:283][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.25.02:283][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.25.02:283][624]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:25:02 AM)
+[2019.01.25-20.25.02:283][624]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.25.02:286][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003290s)
+[2019.01.25-20.25.02:287][624]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.25.02:287][624]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2019.01.25-20.25.02:287][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004114s)
+[2019.01.25-20.25.02:326][624]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.25.02:333][624]LogInit: FAudioDevice initialized.
+[2019.01.25-20.25.02:366][624]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.25.02:368][624]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.25.02
+[2019.01.25-20.25.02:368][624]LogWorld: Bringing up level for play took: 0.000882
+[2019.01.25-20.25.02:382][624]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map -0.645
+[2019.01.25-20.25.02:382][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.25.04:850][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.25.05:856][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.25-20.25.06:859][130]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.25.07:854][241]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.25-20.25.08:853][354]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-20.25.09:851][468]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 5
+[2019.01.25-20.25.10:857][582]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.25.11:851][695]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 7
+[2019.01.25-20.25.12:855][808]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-20.25.13:858][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2019.01.25-20.25.14:628][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.25.14:628][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.25.14:660][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.25.14:661][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.25.14:694][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.25.14:746][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.25-20.25.15:401][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.25.23:280][966]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.25.25:293][160]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.25.25:311][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.25.25:311][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.25.25:311][160]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:25:25 AM)
+[2019.01.25-20.25.25:311][160]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.25.25:314][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003238s)
+[2019.01.25-20.25.25:315][160]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.25.25:315][160]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2019.01.25-20.25.25:315][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004147s)
+[2019.01.25-20.25.25:355][160]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.25.25:362][160]LogInit: FAudioDevice initialized.
+[2019.01.25-20.25.25:399][160]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.25.25:400][160]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.25.25
+[2019.01.25-20.25.25:401][160]LogWorld: Bringing up level for play took: 0.000907
+[2019.01.25-20.25.25:415][160]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 0.388
+[2019.01.25-20.25.25:416][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.25.27:735][425]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.25.28:737][538]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.25-20.25.29:739][650]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.25.30:738][764]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.25-20.25.31:744][879]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-20.25.32:740][993]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 5
+[2019.01.25-20.25.33:740][109]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.25.34:744][220]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 7
+[2019.01.25-20.25.35:738][333]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-20.25.36:736][445]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2019.01.25-20.25.37:742][563]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-20.25.37:997][593]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.25.37:997][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.25.38:030][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.25.38:031][593]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.25.38:064][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.25.38:098][595]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.25-20.25.40:315][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.28.07:302][535]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.28.08:850][682]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.28.08:873][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.28.08:873][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.28.08:873][682]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:28:08 AM)
+[2019.01.25-20.28.08:873][682]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.28.08:877][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003511s)
+[2019.01.25-20.28.08:878][682]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.28.08:878][682]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2019.01.25-20.28.08:878][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004396s)
+[2019.01.25-20.28.08:916][682]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.28.08:923][682]LogInit: FAudioDevice initialized.
+[2019.01.25-20.28.08:954][682]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.28.08:955][682]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.28.08
+[2019.01.25-20.28.08:956][682]LogWorld: Bringing up level for play took: 0.000860
+[2019.01.25-20.28.08:970][682]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map -0.056
+[2019.01.25-20.28.08:971][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.28.13:115][158]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.28.14:123][275]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.25-20.28.15:122][391]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.28.16:118][506]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.25-20.28.19:344][882]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.25-20.28.20:352][998]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-20.28.21:351][110]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 5
+[2019.01.25-20.28.22:346][219]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.28.25:438][578]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.28.26:447][692]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 7
+[2019.01.25-20.28.32:897][442]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.28.32:898][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.28.32:933][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.28.32:934][442]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.28.32:967][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.28.33:002][444]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.25-20.28.33:437][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.29.01:020][351]BlueprintLog: New page: Collapse to Function
+[2019.01.25-20.29.06:554][906]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.29.06:576][906]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The current value of the ' Delegate ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2019.01.25-20.29.06:758][906]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [1423.35] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 204 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2019.01.25-20.30.37:839][421]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.30.43:143][867]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.25-20.30.47:766][241]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Alliance/Bp/Buffo.Buffo
+[2019.01.25-20.31.59:255][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.31.59:346][175]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.32.00:088][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alliance/Bp/Buffo" FILE="../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Bp/Buffo.uasset" SILENT=true
+[2019.01.25-20.32.00:111][215]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/BuffoD27FAD2E44594E5B258DAFB0361BE1FC.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Bp/Buffo.uasset'
+[2019.01.25-20.32.07:221][  2]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.32.56:179][717]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.33.59:482][ 98]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.34.51:579][606]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Component Begin Overlap (CapsuleComponent)  and was replaced as a Custom Event!
+[2019.01.25-20.35.37:556][683]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.36.08:454][266]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.36.09:695][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alliance/Bp/Buffo" FILE="../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Bp/Buffo.uasset" SILENT=true
+[2019.01.25-20.36.09:728][380]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Buffo05D229AE4775648C593A43BD084EAA0A.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Bp/Buffo.uasset'
+[2019.01.25-20.36.20:546][477]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  mientras está dentro  and was replaced as a Custom Event!
+[2019.01.25-20.37.18:202][851]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.38.11:298][ 22]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Alliance_Map_Auto2713A9B3A4C8994C423C70E95B8B15271.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Autosaves/Game/Alliance/Alliance_Map_Auto2.umap'
+[2019.01.25-20.38.11:301][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Alliance/Alliance_Map' took 0.206
+[2019.01.25-20.38.11:301][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.206
+[2019.01.25-20.38.11:303][ 22]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.01.25-20.38.11:318][ 22]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.01.25-20.38.11:318][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.01.25-20.38.11:379][ 22]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/ThirdPersonCharacter_Auto2EC24549742BEFD3F2A9C9E87E59FD5E8.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2019.01.25-20.38.11:380][ 22]LogFileHelpers: Auto-saving content packages took 0.078
+[2019.01.25-20.38.21:708][983]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.38.23:451][108]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.38.23:478][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.38.23:478][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.38.23:478][108]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:38:23 AM)
+[2019.01.25-20.38.23:478][108]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.38.23:482][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003694s)
+[2019.01.25-20.38.23:482][108]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.38.23:482][108]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2019.01.25-20.38.23:483][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004595s)
+[2019.01.25-20.38.23:525][108]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.38.23:532][108]LogInit: FAudioDevice initialized.
+[2019.01.25-20.38.23:566][108]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.38.23:567][108]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.38.23
+[2019.01.25-20.38.23:567][108]LogWorld: Bringing up level for play took: 0.000869
+[2019.01.25-20.38.23:581][108]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 0.554
+[2019.01.25-20.38.23:581][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.38.25:531][270]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.38.25:531][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.38.25:565][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.38.25:566][270]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.38.25:601][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.38.25:635][272]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.01.25-20.38.26:372][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.38.32:389][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.38.34:036][  1]LogSlate: Window 'Save Content' being destroyed
+[2019.01.25-20.38.34:040][  1]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.01.25-20.38.34:040][  1]PIE: Warning: PIE failed because map save was canceled
+[2019.01.25-20.38.35:420][151]LogSlate: Window 'Message Log' being destroyed
+[2019.01.25-20.38.35:431][151]LogSlate: Window 'Message Log' being destroyed
+[2019.01.25-20.38.36:815][317]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.38.36:833][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.38.36:833][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.38.36:834][317]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:38:36 AM)
+[2019.01.25-20.38.36:834][317]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.38.36:837][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003431s)
+[2019.01.25-20.38.36:838][317]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.38.36:838][317]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2019.01.25-20.38.36:838][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004179s)
+[2019.01.25-20.38.36:878][317]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.38.36:886][317]LogInit: FAudioDevice initialized.
+[2019.01.25-20.38.36:914][317]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.38.36:915][317]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.38.36
+[2019.01.25-20.38.36:915][317]LogWorld: Bringing up level for play took: 0.000806
+[2019.01.25-20.38.36:929][317]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map -0.098
+[2019.01.25-20.38.36:929][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.38.40:528][744]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.38.41:527][864]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.25-20.38.42:528][984]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.38.46:219][427]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.38.46:528][464]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.25-20.38.47:220][547]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 5
+[2019.01.25-20.38.47:528][584]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.38.48:220][667]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-20.38.48:528][704]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2019.01.25-20.38.49:904][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.38.49:905][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.38.49:941][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.38.49:942][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.38.49:978][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.38.50:006][871]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.01.25-20.38.51:456][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.40.03:594][829]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.40.04:640][901]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.40.04:658][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.40.04:658][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.40.04:659][901]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:40:04 AM)
+[2019.01.25-20.40.04:659][901]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.40.04:663][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003985s)
+[2019.01.25-20.40.04:663][901]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.40.04:663][901]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.01.25-20.40.04:663][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004755s)
+[2019.01.25-20.40.04:699][901]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.40.04:707][901]LogInit: FAudioDevice initialized.
+[2019.01.25-20.40.04:742][901]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.40.04:743][901]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.40.04
+[2019.01.25-20.40.04:743][901]LogWorld: Bringing up level for play took: 0.000906
+[2019.01.25-20.40.04:757][901]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map -0.27
+[2019.01.25-20.40.04:757][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.40.07:948][215]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.40.08:949][314]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.25-20.40.09:950][413]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.40.13:205][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.40.14:207][836]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-20.40.15:214][935]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.40.16:209][ 33]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-20.40.17:209][130]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-20.40.20:639][472]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-20.40.21:639][571]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 12
+[2019.01.25-20.40.23:427][750]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.40.23:427][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.40.23:463][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.40.23:463][750]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.40.23:498][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.40.23:537][752]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.01.25-20.40.24:844][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.40.31:509][460]LogEditorTransaction: Undo Move Nodes
+[2019.01.25-20.45.04:479][345]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-20.46.56:372][430]LogSlate: Took 0.016022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.25-20.49.52:847][766]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.49.54:420][918]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.49.54:448][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.49.54:448][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.49.54:449][918]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:49:54 AM)
+[2019.01.25-20.49.54:449][918]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.49.54:452][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003746s)
+[2019.01.25-20.49.54:453][918]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.49.54:453][918]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2019.01.25-20.49.54:454][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004860s)
+[2019.01.25-20.49.54:491][918]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.49.54:499][918]LogInit: FAudioDevice initialized.
+[2019.01.25-20.49.54:538][918]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.49.54:541][918]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.49.54
+[2019.01.25-20.49.54:542][918]LogWorld: Bringing up level for play took: 0.001767
+[2019.01.25-20.49.54:557][918]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map -0.469
+[2019.01.25-20.49.54:558][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.49.57:745][285]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.49.58:754][404]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.25-20.49.59:746][522]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.50.03:442][959]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-20.50.07:802][474]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.50.07:802][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.50.07:842][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.50.07:843][474]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.50.07:881][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.50.07:931][475]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.01.25-20.50.15:120][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.50.29:791][  2]LogEditorTransaction: Undo Move Node
+[2019.01.25-20.50.30:208][ 35]LogEditorTransaction: Undo Move Node
+[2019.01.25-20.50.30:695][ 87]LogEditorTransaction: Undo Move Node
+[2019.01.25-20.50.43:793][616]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.50.44:795][706]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.50.44:820][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.50.44:820][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.50.44:820][706]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:50:44 AM)
+[2019.01.25-20.50.44:820][706]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.50.44:823][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003810s)
+[2019.01.25-20.50.44:824][706]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.50.44:824][706]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2019.01.25-20.50.44:825][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004946s)
+[2019.01.25-20.50.44:865][706]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.50.44:872][706]LogInit: FAudioDevice initialized.
+[2019.01.25-20.50.44:908][706]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.50.44:910][706]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.50.44
+[2019.01.25-20.50.44:910][706]LogWorld: Bringing up level for play took: 0.000989
+[2019.01.25-20.50.44:924][706]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map -0.103
+[2019.01.25-20.50.44:925][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.50.58:595][315]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-20.51.08:595][505]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-20.51.10:651][750]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.51.10:652][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.51.10:693][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.51.10:693][750]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.51.10:729][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.51.10:772][751]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.01.25-20.51.12:016][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.51.15:093][241]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.51.16:136][338]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.51.16:168][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.51.16:168][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.51.16:168][338]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:51:16 AM)
+[2019.01.25-20.51.16:168][338]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.51.16:172][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003677s)
+[2019.01.25-20.51.16:172][338]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.51.16:173][338]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.01.25-20.51.16:173][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004538s)
+[2019.01.25-20.51.16:214][338]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.51.16:221][338]LogInit: FAudioDevice initialized.
+[2019.01.25-20.51.16:254][338]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.51.16:255][338]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.51.16
+[2019.01.25-20.51.16:256][338]LogWorld: Bringing up level for play took: 0.000908
+[2019.01.25-20.51.16:270][338]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map -0.756
+[2019.01.25-20.51.16:270][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.51.21:260][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.51.22:260][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.51.23:261][159]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-20.51.24:267][278]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.51.25:262][395]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-20.51.26:260][514]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-20.51.27:265][634]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 12
+[2019.01.25-20.51.28:265][753]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 14
+[2019.01.25-20.51.29:268][872]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 16
+[2019.01.25-20.51.30:261][990]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 18
+[2019.01.25-20.51.33:087][326]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 18
+[2019.01.25-20.51.34:089][445]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2019.01.25-20.51.35:088][564]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 22
+[2019.01.25-20.51.35:533][617]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-20.51.36:092][683]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 24
+[2019.01.25-20.51.40:534][207]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-20.51.47:617][ 48]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.51.47:618][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.51.47:660][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.51.47:660][ 48]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.51.47:697][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.51.47:740][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.01.25-20.51.48:215][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.52.21:155][926]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.52.33:731][935]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.25-20.52.52:080][356]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.52.52:106][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.52.52:106][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.52.52:107][356]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:52:52 AM)
+[2019.01.25-20.52.52:107][356]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.52.52:110][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003601s)
+[2019.01.25-20.52.52:111][356]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.52.52:111][356]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2019.01.25-20.52.52:111][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004460s)
+[2019.01.25-20.52.52:154][356]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.52.52:161][356]LogInit: FAudioDevice initialized.
+[2019.01.25-20.52.52:197][356]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.52.52:198][356]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.52.52
+[2019.01.25-20.52.52:199][356]LogWorld: Bringing up level for play took: 0.000924
+[2019.01.25-20.52.52:213][356]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map -0.814
+[2019.01.25-20.52.52:213][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.52.54:484][590]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-20.53.09:493][153]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-20.53.14:487][675]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-20.53.21:191][376]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.53.22:191][480]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.25-20.53.23:196][584]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.53.24:198][688]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.25-20.53.25:192][794]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-20.53.26:197][900]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 5
+[2019.01.25-20.53.27:197][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.53.30:770][371]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-20.53.33:872][691]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.53.34:873][796]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-20.53.35:873][900]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-20.53.38:181][141]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-20.53.39:191][246]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 12
+[2019.01.25-20.53.40:189][349]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 14
+[2019.01.25-20.53.41:188][454]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 16
+[2019.01.25-20.53.42:189][559]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 18
+[2019.01.25-20.53.43:189][664]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2019.01.25-20.53.44:190][768]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 22
+[2019.01.25-20.53.45:182][872]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 24
+[2019.01.25-20.53.45:777][935]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-20.53.46:185][978]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 26
+[2019.01.25-20.53.47:182][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 28
+[2019.01.25-20.53.48:182][188]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2019.01.25-20.53.49:187][294]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 32
+[2019.01.25-20.53.50:185][398]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 34
+[2019.01.25-20.53.50:773][460]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-20.53.51:184][503]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 36
+[2019.01.25-20.53.52:187][609]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 38
+[2019.01.25-20.53.53:186][715]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2019.01.25-20.53.53:629][762]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.53.53:630][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.53.53:669][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.53.53:670][762]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.53.53:707][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.53.53:733][763]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.01.25-20.53.59:487][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.56.08:152][132]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.56.08:164][132]LogBlueprint: Error: [Compiler Buffo] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2019.01.25-20.56.08:165][132]LogBlueprint: Error: [Compiler Buffo] Variable node  Set ¿Está dentro?  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.01.25-20.56.08:370][132]LogBlueprint: Warning: [Compiler Buffo] [3044.97] Compile of Buffo failed. 2 Fatal Issue(s) 0 Warning(s) [in 217 ms] (/Game/Alliance/Bp/Buffo.Buffo)
+[2019.01.25-20.56.30:375][650]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.56.31:477][752]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.56.31:503][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.56.31:503][752]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.25-20.56.31:517][752]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.01.25-20.56.31:752][752]LogPlayLevel: PlayLevel: Blueprint regeneration took 249 ms (1 blueprints)
+[2019.01.25-20.56.31:753][752]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:56:31 AM)
+[2019.01.25-20.56.31:753][752]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.56.31:757][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004267s)
+[2019.01.25-20.56.31:758][752]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.56.31:758][752]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2019.01.25-20.56.31:758][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.005145s)
+[2019.01.25-20.56.31:806][752]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.56.31:816][752]LogInit: FAudioDevice initialized.
+[2019.01.25-20.56.31:851][752]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.56.31:852][752]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.56.31
+[2019.01.25-20.56.31:852][752]LogWorld: Bringing up level for play took: 0.001102
+[2019.01.25-20.56.31:866][752]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 0.84
+[2019.01.25-20.56.31:866][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.56.33:971][996]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-20.56.34:824][ 98]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.56.35:827][218]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.56.36:828][338]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-20.56.37:827][454]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.56.38:828][574]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-20.56.39:828][694]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-20.56.40:829][814]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 12
+[2019.01.25-20.56.41:831][934]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 14
+[2019.01.25-20.56.42:832][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 16
+[2019.01.25-20.56.43:833][174]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 18
+[2019.01.25-20.56.44:830][291]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2019.01.25-20.56.45:831][411]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 22
+[2019.01.25-20.56.46:831][531]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 24
+[2019.01.25-20.56.47:832][651]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 26
+[2019.01.25-20.56.48:833][771]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 28
+[2019.01.25-20.56.48:974][788]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-20.56.49:829][886]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2019.01.25-20.56.50:832][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 32
+[2019.01.25-20.56.51:833][126]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 34
+[2019.01.25-20.56.52:833][246]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 36
+[2019.01.25-20.56.53:833][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 38
+[2019.01.25-20.56.53:975][383]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-20.56.54:834][486]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 40
+[2019.01.25-20.56.55:833][605]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 42
+[2019.01.25-20.56.56:826][724]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 44
+[2019.01.25-20.56.57:827][844]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 46
+[2019.01.25-20.56.58:828][964]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 48
+[2019.01.25-20.56.59:830][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 50
+[2019.01.25-20.57.02:543][408]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-20.57.17:547][204]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-20.57.22:551][804]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-20.57.25:689][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.57.25:690][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.57.25:733][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.57.25:734][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.57.25:770][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.57.25:817][181]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.01.25-20.57.28:604][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.57.54:213][352]LogUObjectBase: Warning: Object is not registered
+[2019.01.25-20.57.54:213][352]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.25-20.57.54:818][352]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.604 s
+[2019.01.25-20.57.54:818][352]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.25-20.57.54:818][352]LogOutputDevice: Error: 
+[2019.01.25-20.57.54:818][352]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.01.25-20.57.54:818][352]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.01.25-20.57.54:818][352]LogOutputDevice: Error: Stack: 
+[2019.01.25-20.57.54:818][352]LogOutputDevice: Error: [Callstack] 0x00007ffdff1381d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ffdff14809e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ffe01babcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ffdfd4a769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ffdfd460917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ffe0c1a7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ffe0c3f4393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ffe0c202d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ffe0c1fee18 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ffe0c1fe483 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ff6b2a57094 UE4Editor.exe!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ff6b2a6596c UE4Editor.exe!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ff6b2a659ea UE4Editor.exe!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ff6b2a748da UE4Editor.exe!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ff6b2a7659a UE4Editor.exe!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ffe4aa73034 KERNEL32.DLL!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: [Callstack] 0x00007ffe4af83691 ntdll.dll!UnknownFunction []
+[2019.01.25-20.57.54:819][352]LogOutputDevice: Error: 
+[2019.01.25-20.57.54:821][352]LogStats:                SubmitErrorReport -  0.000 s
+[2019.01.25-20.57.55:568][352]LogStats:                    SendNewReport -  0.748 s
+[2019.01.25-20.57.55:568][352]LogStats:             FDebug::EnsureFailed -  1.356 s
+[2019.01.25-20.57.55:577][353]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.57.57:954][599]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.57.57:981][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.57.57:981][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.57.57:981][599]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:57:57 AM)
+[2019.01.25-20.57.57:981][599]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.57.57:985][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004042s)
+[2019.01.25-20.57.57:986][599]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.57.57:986][599]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2019.01.25-20.57.57:986][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.005117s)
+[2019.01.25-20.57.58:028][599]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.57.58:037][599]LogInit: FAudioDevice initialized.
+[2019.01.25-20.57.58:070][599]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.57.58:071][599]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.57.58
+[2019.01.25-20.57.58:072][599]LogWorld: Bringing up level for play took: 0.001062
+[2019.01.25-20.57.58:086][599]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 1.059
+[2019.01.25-20.57.58:086][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.58.00:510][876]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-20.58.01:653][  7]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.58.02:659][124]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.58.03:655][242]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-20.58.04:658][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.58.05:236][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.58.05:237][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.58.05:280][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.58.05:281][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.58.05:318][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.58.05:366][430]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.01.25-20.58.05:963][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.58.19:489][968]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.58.21:817][203]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.58.21:842][203]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.58.21:842][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.58.21:842][203]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:58:21 AM)
+[2019.01.25-20.58.21:842][203]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.58.21:846][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003989s)
+[2019.01.25-20.58.21:847][203]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.58.21:847][203]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2019.01.25-20.58.21:847][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004827s)
+[2019.01.25-20.58.21:888][203]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.58.21:896][203]LogInit: FAudioDevice initialized.
+[2019.01.25-20.58.21:931][203]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.58.21:933][203]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.58.21
+[2019.01.25-20.58.21:933][203]LogWorld: Bringing up level for play took: 0.001017
+[2019.01.25-20.58.21:947][203]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 0.92
+[2019.01.25-20.58.21:947][203]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.58.24:443][485]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-20.58.27:819][871]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.58.28:820][986]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.58.29:444][ 59]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-20.58.29:826][103]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-20.58.30:826][219]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-20.58.31:822][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-20.58.32:823][451]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-20.58.33:820][566]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 12
+[2019.01.25-20.58.34:450][639]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-20.58.38:018][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.58.38:018][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.58.38:061][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-20.58.38:062][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.58.38:099][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-20.58.38:146][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.01.25-20.58.39:327][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-20.59.45:648][303]BlueprintLog: New page: Compile Buffo
+[2019.01.25-20.59.52:608][927]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-20.59.52:633][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.59.52:633][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-20.59.52:634][927]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 6:59:52 AM)
+[2019.01.25-20.59.52:634][927]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-20.59.52:638][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004005s)
+[2019.01.25-20.59.52:638][927]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-20.59.52:638][927]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2019.01.25-20.59.52:639][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004841s)
+[2019.01.25-20.59.52:676][927]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-20.59.52:684][927]LogInit: FAudioDevice initialized.
+[2019.01.25-20.59.52:717][927]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-20.59.52:719][927]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-13.59.52
+[2019.01.25-20.59.52:719][927]LogWorld: Bringing up level for play took: 0.000911
+[2019.01.25-20.59.52:733][927]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map -0.294
+[2019.01.25-20.59.52:734][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-20.59.55:905][183]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-20.59.56:916][266]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.25-20.59.57:906][348]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-20.59.58:910][429]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.25-20.59.59:914][508]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-21.00.00:917][583]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 5
+[2019.01.25-21.00.01:912][662]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-21.00.04:728][895]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.00.05:886][990]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-21.00.06:886][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-21.00.07:894][158]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-21.00.08:889][241]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 12
+[2019.01.25-21.00.09:733][312]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.00.09:888][325]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 14
+[2019.01.25-21.00.10:891][409]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 16
+[2019.01.25-21.00.11:895][493]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 18
+[2019.01.25-21.00.12:886][576]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2019.01.25-21.00.13:889][660]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 22
+[2019.01.25-21.00.14:733][731]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.00.14:887][744]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 24
+[2019.01.25-21.00.15:888][827]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 26
+[2019.01.25-21.00.16:899][910]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 28
+[2019.01.25-21.00.17:896][991]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2019.01.25-21.00.21:849][318]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.00.26:862][730]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.00.31:858][144]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.00.33:913][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.00.33:913][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.00.33:951][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-21.00.33:952][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.00.33:988][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.00.34:018][313]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.01.25-21.00.34:627][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-21.00.59:364][817]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-21.01.22:783][950]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-21.01.37:278][372]LogUObjectArray: Warning: Invalid object index 7012463
+[2019.01.25-21.01.37:278][372]LogUObjectArray: Warning: Invalid object index 7012463
+[2019.01.25-21.01.37:280][372]LogUObjectArray: Warning: Invalid object index 7012463
+[2019.01.25-21.01.37:283][372]LogUObjectArray: Warning: Invalid object index 7012463
+[2019.01.25-21.01.37:289][373]LogUObjectArray: Warning: Invalid object index 7012463
+[2019.01.25-21.01.37:290][373]LogUObjectArray: Warning: Invalid object index 7012463
+[2019.01.25-21.01.37:293][373]LogUObjectArray: Warning: Invalid object index 7012463
+[2019.01.25-21.01.37:298][374]LogUObjectArray: Warning: Invalid object index 7012463
+[2019.01.25-21.01.37:299][374]LogUObjectArray: Warning: Invalid object index 7012463
+[2019.01.25-21.01.37:302][374]LogUObjectArray: Warning: Invalid object index 7012463
+[2019.01.25-21.01.54:846][171]BlueprintLog: New page: Compile Buffo
+[2019.01.25-21.02.28:440][727]BlueprintLog: New page: Compile Buffo
+[2019.01.25-21.02.29:328][803]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-21.02.29:354][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.02.29:354][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-21.02.29:354][803]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 7:02:29 AM)
+[2019.01.25-21.02.29:354][803]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-21.02.29:357][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003403s)
+[2019.01.25-21.02.29:359][803]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-21.02.29:359][803]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2019.01.25-21.02.29:359][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004971s)
+[2019.01.25-21.02.29:399][803]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-21.02.29:406][803]LogInit: FAudioDevice initialized.
+[2019.01.25-21.02.29:437][803]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-21.02.29:438][803]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-14.02.29
+[2019.01.25-21.02.29:438][803]LogWorld: Bringing up level for play took: 0.001082
+[2019.01.25-21.02.29:452][803]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 0.426
+[2019.01.25-21.02.29:452][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.02.32:067][103]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.02.32:850][195]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-21.02.33:856][313]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-21.02.34:852][429]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-21.02.35:854][547]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-21.02.36:853][665]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-21.02.37:075][691]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.02.37:859][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-21.02.38:856][896]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 12
+[2019.01.25-21.02.39:856][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 14
+[2019.01.25-21.02.40:853][131]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 16
+[2019.01.25-21.02.41:855][249]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 18
+[2019.01.25-21.02.42:073][275]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.02.42:857][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2019.01.25-21.02.43:852][483]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 22
+[2019.01.25-21.02.44:851][601]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 24
+[2019.01.25-21.02.45:858][720]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 26
+[2019.01.25-21.02.46:857][838]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 28
+[2019.01.25-21.02.47:852][954]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 30
+[2019.01.25-21.02.48:857][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 32
+[2019.01.25-21.02.49:853][191]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 34
+[2019.01.25-21.02.50:226][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.02.50:226][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.02.50:269][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-21.02.50:270][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.02.50:331][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.02.50:386][236]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.01.25-21.02.50:790][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-21.03.53:649][298]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-21.03.54:667][366]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-21.03.54:687][366]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.03.54:687][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-21.03.54:687][366]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 7:03:54 AM)
+[2019.01.25-21.03.54:687][366]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-21.03.54:691][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003388s)
+[2019.01.25-21.03.54:691][366]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-21.03.54:691][366]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2019.01.25-21.03.54:691][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004187s)
+[2019.01.25-21.03.54:732][366]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-21.03.54:740][366]LogInit: FAudioDevice initialized.
+[2019.01.25-21.03.54:777][366]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-21.03.54:778][366]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-14.03.54
+[2019.01.25-21.03.54:779][366]LogWorld: Bringing up level for play took: 0.001006
+[2019.01.25-21.03.54:793][366]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map -0.234
+[2019.01.25-21.03.54:793][366]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.03.57:472][620]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.03.58:353][704]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-21.03.59:361][800]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-21.04.00:362][895]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-21.04.01:360][981]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-21.04.02:354][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-21.04.02:480][ 84]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.04.03:361][168]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-21.04.04:359][265]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 12
+[2019.01.25-21.04.05:360][364]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 14
+[2019.01.25-21.04.06:357][462]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 16
+[2019.01.25-21.04.07:352][561]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 18
+[2019.01.25-21.04.07:473][573]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.04.12:030][ 19]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.04.12:031][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.04.12:066][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-21.04.12:067][ 19]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.04.12:101][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.04.12:133][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.01.25-21.04.12:683][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-21.04.50:179][933]BlueprintLog: New page: Compile Buffo
+[2019.01.25-21.04.50:945][995]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-21.04.50:970][995]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.04.50:970][995]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-21.04.50:970][995]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 7:04:50 AM)
+[2019.01.25-21.04.50:971][995]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-21.04.50:974][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003437s)
+[2019.01.25-21.04.50:975][995]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-21.04.50:975][995]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.01.25-21.04.50:975][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004309s)
+[2019.01.25-21.04.51:014][995]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-21.04.51:022][995]LogInit: FAudioDevice initialized.
+[2019.01.25-21.04.51:058][995]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-21.04.51:060][995]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-14.04.51
+[2019.01.25-21.04.51:060][995]LogWorld: Bringing up level for play took: 0.000963
+[2019.01.25-21.04.51:074][995]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 0.047
+[2019.01.25-21.04.51:074][995]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.04.53:010][214]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.04.53:749][301]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-21.04.54:750][419]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-21.04.55:751][534]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-21.04.56:750][652]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-21.04.57:752][770]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-21.04.58:017][801]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.04.58:753][888]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-21.04.59:755][  6]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 12
+[2019.01.25-21.05.00:756][124]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 14
+[2019.01.25-21.05.01:750][241]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 16
+[2019.01.25-21.05.02:757][360]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 18
+[2019.01.25-21.05.03:010][390]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.05.10:123][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.05.10:123][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.05.10:166][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-21.05.10:166][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.05.10:201][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.05.10:254][229]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.01.25-21.05.11:087][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-21.07.26:057][874]BlueprintLog: New page: Compile Buffo
+[2019.01.25-21.07.27:158][978]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-21.07.27:189][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.07.27:190][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-21.07.27:190][978]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 7:07:27 AM)
+[2019.01.25-21.07.27:190][978]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-21.07.27:193][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003343s)
+[2019.01.25-21.07.27:194][978]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-21.07.27:194][978]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2019.01.25-21.07.27:194][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004231s)
+[2019.01.25-21.07.27:234][978]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-21.07.27:244][978]LogInit: FAudioDevice initialized.
+[2019.01.25-21.07.27:277][978]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-21.07.27:278][978]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-14.07.27
+[2019.01.25-21.07.27:278][978]LogWorld: Bringing up level for play took: 0.001019
+[2019.01.25-21.07.27:292][978]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 0.265
+[2019.01.25-21.07.27:292][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.07.30:628][358]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.07.35:634][948]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.07.40:631][543]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.07.45:939][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.07.45:939][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.07.45:980][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-21.07.45:981][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.07.46:019][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.07.46:067][180]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.01.25-21.07.47:061][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-21.09.49:370][471]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-21.09.58:832][313]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-21.09.58:850][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.09.58:851][313]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.25-21.09.58:856][313]LogPlayLevel: [PlayLevel] Compiling Buffo before play...
+[2019.01.25-21.09.59:044][313]LogPlayLevel: PlayLevel: Blueprint regeneration took 192 ms (1 blueprints)
+[2019.01.25-21.09.59:044][313]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 7:09:59 AM)
+[2019.01.25-21.09.59:044][313]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-21.09.59:048][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003907s)
+[2019.01.25-21.09.59:049][313]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-21.09.59:049][313]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2019.01.25-21.09.59:049][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004838s)
+[2019.01.25-21.09.59:089][313]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-21.09.59:097][313]LogInit: FAudioDevice initialized.
+[2019.01.25-21.09.59:136][313]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-21.09.59:137][313]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-14.09.59
+[2019.01.25-21.09.59:137][313]LogWorld: Bringing up level for play took: 0.001070
+[2019.01.25-21.09.59:151][313]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map 0.125
+[2019.01.25-21.09.59:152][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.10.01:874][575]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.10.02:642][650]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-21.10.03:652][749]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-21.10.04:651][847]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-21.10.05:653][945]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 6
+[2019.01.25-21.10.06:649][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 8
+[2019.01.25-21.10.06:878][ 64]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.10.07:644][137]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 10
+[2019.01.25-21.10.08:652][235]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 12
+[2019.01.25-21.10.09:643][332]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 14
+[2019.01.25-21.10.10:645][429]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 16
+[2019.01.25-21.10.11:644][525]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 18
+[2019.01.25-21.10.11:882][548]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.10.12:651][622]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 19
+[2019.01.25-21.10.13:645][720]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 20
+[2019.01.25-21.10.14:643][819]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 21
+[2019.01.25-21.10.15:651][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 22
+[2019.01.25-21.10.19:131][256]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.10.24:131][745]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.10.29:134][239]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.10.40:250][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.10.40:250][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.10.40:289][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-21.10.40:290][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.10.40:324][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.10.40:352][343]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.01.25-21.10.40:931][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-21.12.14:276][644]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.01.25-21.12.16:116][771]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.25-21.12.16:145][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.12.16:146][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-21.12.16:146][771]PIE: New page: PIE session: Alliance_Map (Jan 25, 2019, 7:12:16 AM)
+[2019.01.25-21.12.16:146][771]LogPlayLevel: Creating play world package: /Game/Alliance/UEDPIE_0_Alliance_Map
+[2019.01.25-21.12.16:150][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003670s)
+[2019.01.25-21.12.16:150][771]LogAIModule: Creating AISystem for world Alliance_Map
+[2019.01.25-21.12.16:150][771]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2019.01.25-21.12.16:150][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Alliance/Alliance_Map.Alliance_Map to /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map (0.004500s)
+[2019.01.25-21.12.16:191][771]LogInit: XAudio2 using 'Altavoces (Dispositivo de High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.25-21.12.16:199][771]LogInit: FAudioDevice initialized.
+[2019.01.25-21.12.16:232][771]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.25-21.12.16:233][771]LogWorld: Bringing World /Game/Alliance/UEDPIE_0_Alliance_Map.Alliance_Map up for play (max tick rate 0) at 2019.01.25-14.12.16
+[2019.01.25-21.12.16:234][771]LogWorld: Bringing up level for play took: 0.001121
+[2019.01.25-21.12.16:248][771]PIE: Play in editor start time for /Game/Alliance/UEDPIE_0_Alliance_Map -0.779
+[2019.01.25-21.12.16:248][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.12.19:042][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0
+[2019.01.25-21.12.20:051][ 86]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1
+[2019.01.25-21.12.21:043][167]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 2
+[2019.01.25-21.12.22:043][250]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 3
+[2019.01.25-21.12.23:048][334]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 4
+[2019.01.25-21.12.24:044][417]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 5
+[2019.01.25-21.12.27:443][701]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.12.28:924][823]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 5
+[2019.01.25-21.12.29:925][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 7
+[2019.01.25-21.12.30:931][985]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 9
+[2019.01.25-21.12.31:935][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 11
+[2019.01.25-21.12.32:445][111]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.12.32:932][151]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 13
+[2019.01.25-21.12.33:929][233]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 15
+[2019.01.25-21.12.34:936][317]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 17
+[2019.01.25-21.12.35:926][399]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 19
+[2019.01.25-21.12.36:925][482]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 21
+[2019.01.25-21.12.37:444][525]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.12.37:926][562]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 22
+[2019.01.25-21.12.38:932][645]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 23
+[2019.01.25-21.12.39:929][727]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 24
+[2019.01.25-21.12.40:935][811]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 25
+[2019.01.25-21.12.41:935][893]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 26
+[2019.01.25-21.12.43:619][ 33]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.12.48:621][449]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.12.53:622][867]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.12.57:038][153]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.12.57:763][214]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 26
+[2019.01.25-21.12.58:774][297]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 28
+[2019.01.25-21.13.02:043][567]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.13.07:040][984]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.13.09:525][192]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.13.14:527][608]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.13.16:920][807]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.13.21:928][228]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.13.26:764][631]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.13.31:771][ 46]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.13.36:773][467]LogBlueprintUserMessages: [Buffo_2] Adios buffo
+[2019.01.25-21.13.43:436][ 25]LogBlueprintUserMessages: [Buffo_2] Buffo obtenido 
+[2019.01.25-21.13.48:444][442]LogBlueprintUserMessages: [Buffo_2] El buffo está por terminar 
+[2019.01.25-21.13.52:890][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.13.52:890][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.13.52:928][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-21.13.52:929][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map' with GeneratedClass '/Game/Alliance/Alliance_Map.Alliance_Map_C' with ClassGeneratedBy '/Game/Alliance/Alliance_Map.Alliance_Map:PersistentLevel.Alliance_Map'
+[2019.01.25-21.13.52:963][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-21.13.52:991][818]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.01.25-21.13.54:698][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-21.13.59:630][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-21.14.02:156][440]LogSlate: Window 'Save Content' being destroyed
+[2019.01.25-21.14.02:517][440]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Alliance_MapBBC13D234B5B7D0BBF655EA36B38D7E3.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Alliance_Map.umap'
+[2019.01.25-21.14.02:572][440]LogFileHelpers: Saving map 'Alliance_Map' took 0.262
+[2019.01.25-21.14.02:589][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alliance/Bp/Buffo" FILE="../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Bp/Buffo.uasset" SILENT=true
+[2019.01.25-21.14.02:632][440]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Buffo0EA0C9514090FB44DC7112A062AB6CB4.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Bp/Buffo.uasset'
+[2019.01.25-21.14.02:652][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alliance/Bp/Orbe" FILE="../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Bp/Orbe.uasset" SILENT=true
+[2019.01.25-21.14.02:671][440]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/Orbe3C8FA9F3406DBDC63255B58BDAAE1C5D.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/Alliance/Bp/Orbe.uasset'
+[2019.01.25-21.14.02:870][440]LogSavePackage: Moving '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Saved/ThirdPersonCharacter0BE00B754DAA5EF3D14168BCAAD1A689.tmp' to '../../../../../../Users/VS-PROGRAMMINGPC1/Documents/GitHub/Prueba/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.01.25-21.15.13:985][922]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.01.25-21.19.06:575][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-21.19.10:103][694]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.21/Engine/Content: 'C:/Program Files/Epic Games/UE_4.21/Engine/Content' is outside repository
+[2019.01.25-21.19.19:291][694]LogSlate: Window 'Submit Files' being destroyed
+[2019.01.25-21.19.19:785][694]LogSourceControl: commit successful: [master 77edce1] Orbe y Buffo
+[2019.01.25-21.19.19:951][694]SourceControl: [master 77edce1] Orbe y Buffo
+[2019.01.25-21.19.19:951][694]SourceControl:  5 files changed, 47 insertions(+), 2 deletions(-)
+[2019.01.25-21.19.19:951][694]SourceControl:  create mode 100644 Content/Alliance/Alliance_Map.umap
+[2019.01.25-21.19.19:951][694]SourceControl:  create mode 100644 Content/Alliance/Bp/Buffo.uasset
+[2019.01.25-21.19.19:951][694]SourceControl:  create mode 100644 Content/Alliance/Bp/Orbe.uasset
+[2019.01.25-21.19.19:951][694]SourceControl:  rewrite Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (94%)
+[2019.01.25-21.19.19:955][694]SourceControl: Commited [master 77edce1] Orbe y Buffo.
